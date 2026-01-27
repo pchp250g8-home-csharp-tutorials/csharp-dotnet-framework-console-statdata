@@ -1,1 +1,1 @@
-StatData. C# Tutorials. Algorithms. DotNet FrameWork Platform. Console Application.
+StatData. C# Tutorials. Simple Input/Output. Algorithms. DotNet FrameWork Platform. Console Application.
